@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  position: relative;
+}
+
+h1{
+  position: absolute;
+  top: 300px;
+}
+
+p{
+  position: absolute;
+  top: 100px;
+  font-weight: 200;
+  font-style: italic ;
+  font-size: 27px;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
